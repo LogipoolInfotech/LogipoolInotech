@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'logipooldb' );
+define( 'DB_NAME', 'wordpress' );
 
 /** Database username */
 define( 'DB_USER', 'root' );
@@ -48,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         '/u1j5*__H2AehsD{/c,L>Y.14l-hiHhlk=Sb}<lhrOF;-W`uiqnJMqqEHf9yfk5`' );
-define( 'SECURE_AUTH_KEY',  'w;0r]Zvz(;~3X_HJwV@6*b.0S~t&Lkwn7/U7>s<zsB`u-c+T|2ThEe2jo#5?0v%C' );
-define( 'LOGGED_IN_KEY',    '>g]d5MOl@1NaP;=U]9Yh.sa[*CYZKklGwzKb5bP@A+V<GaUBzyt AY#X^Xz<>/8f' );
-define( 'NONCE_KEY',        'L3q,<3#unJwVN (NuN 3CJ9=Ik~<S[H00tF~ mDf<}33YDs5L@7,G<$^;VYfkg/3' );
-define( 'AUTH_SALT',        'O_&TT`0exQt$b??BLp?x_%Zhfcj9ckzo=kG4#jd.ngI>vc#B`Yfk$XARL;E%A*}j' );
-define( 'SECURE_AUTH_SALT', 'uhtgjlo=,9nbg5J;D.@@.Gqf>-etCPq h>P6&gHmWF-[M_9`SCD2FE8dWsn@/k>W' );
-define( 'LOGGED_IN_SALT',   '3pK#^(;c#44OZ/}N}C(+t?YU4~GKuzN-$%4H??ew?Y!xJB]Ahbo%cqFu/~<.Eeh0' );
-define( 'NONCE_SALT',       'e&m[XsJxj<i|>_,P!IRkqjJmNJ5l={ TYf%ri,^dZl(JH!Q/gy-}wbcY,0t,>EiI' );
+define( 'AUTH_KEY',         'o.fH$FGpIc:byH(}L*W;QGVo/^p{R-#)El7T>SYv>qofBELf8itq}?}Fwe+#iFuo' );
+define( 'SECURE_AUTH_KEY',  'V!,rS17t*PY,DND/e]3x8Nr+lSJqkK@878c;C^ziW fdLhv[{It]X{mlC;k5QTT{' );
+define( 'LOGGED_IN_KEY',    '{;Fp~fYyHF1lWpV,n9c)D1bTuv#EvpeJ#Y6M<w@~__:A4Nja+lu!^F`,X?MLk*-/' );
+define( 'NONCE_KEY',        't=&/sdZ?!+nGj|pxeWJ:<je{SC%7m{8?sA<S@VHygjNl/lz!a35;4V5E0pB<z8BK' );
+define( 'AUTH_SALT',        'YgJ(OX.q:{oXtp?n.$NS6l72fk<=IxP#uC?)b2&Y#T5*IL$B=jrS]_v6.g63~K1B' );
+define( 'SECURE_AUTH_SALT', 'U}w)29;=ZDXxyM0+;OC1bk9bB^]?SBvqhY3;fx*P].VyRdL([H!`k8E*C11eE#0S' );
+define( 'LOGGED_IN_SALT',   '+VP2O%lVKKD7!/=MCff3)_YW{1}txhA<U]xxxL<z~zE%WUmvXNb_&eRXE|cOnY6v' );
+define( 'NONCE_SALT',       'ybk*oVR_-`ikazE$k(3U~;MGm)cZr|9b3;4Ny^.5/}CQ%/rxKug[Q67jSd@>-6>1' );
 
 /**#@-*/
 
